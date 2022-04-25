@@ -1,0 +1,41 @@
+{
+  "locale_name": "Русский",
+  "ui": {
+    "state_active": "Активно",
+    "state_inactive": "Неактивно"
+  },
+  "heroes": {
+    "ana": "Ана",
+    "ashe": "Эш",
+    "baptiste": "Батист",
+    "bastion": "Бастион",
+    "brigitte": "Бригитта",
+    "cassidy": "Кэссиди",
+    "doomfist": "Кулак Смерти",
+    "dva": "D.Va",
+    "echo": "Эхо",
+    "genji": "Гендзи",
+    "hanzo": "Хандзо",
+    "junkrat": "Крысавчик",
+    "lucio": "Лусио",
+    "mei": "Мэй",
+    "mercy": "Ангел",
+    "moira": "Мойра",
+    "orisa": "Ориса",
+    "pharah": "Фарра",
+    "reaper": "Жнец",
+    "reinhardt": "Рейнхардт",
+    "roadhog": "Турбосвин",
+    "sigma": "Сигма",
+    "soldier_76": "Солдат-76",
+    "sombra": "Собмра",
+    "symmetra": "Симметра",
+    "torbjorn": "Торбьорн",
+    "tracer": "Трейсер",
+    "widowmaker": "Роковая вдова",
+    "winston": "Винстон",
+    "wrecking_ball": "Таран",
+    "zarya": "Заря",
+    "zenyatta": "Дзенъятта"
+  }
+}

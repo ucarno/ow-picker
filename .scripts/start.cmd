@@ -1,0 +1,1 @@
+start cmd /k "..\venv\Scripts\activate&cd ..\src&title Overwatch Picker Console&python main.py"
