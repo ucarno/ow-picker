@@ -1,3 +1,5 @@
+**Made for OW1, not working in OW2**
+
 # Overwatch Hero Picker
 Overwatch Hero Picker is an application that tries to automatically pick selected hero. 
 Only 1920x1080 screens are supported.
